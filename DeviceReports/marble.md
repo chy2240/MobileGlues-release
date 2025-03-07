@@ -2,7 +2,7 @@
 
 ## Device Info
 
-- **SoC**: Snapdragon 7+Gen2
+- **SoC**: Snapdragon 7+Gen2 (SM7475)
 - **GPU**: Adreno 725
 - **OS**: Android 15
 
@@ -41,10 +41,11 @@
 | iterationT | Iris 1.8.8 | ✅(3.2.0, High) |
 | iterationT Next | Iris 1.8.8 | ✅(1.1.0, all presets)
 | UShader | Iris 1.8.8 | *️⃣(2.2, 所有预设天空盒黑色) |
-| SEUS | Iris 1.8.8 | ✅(v11.0, E10, E11, E12, all presets) |
-| SEUS PTGI | Iris 1.8.8 | ✅(HRR2, HRR3, all presets) |
+| SEUS | Iris 1.8.8 | ✅(v11.0, all presets) |
+| SEUS E | Iris 1.8.8 | ✅(10-12, all presets)
+| SEUS PTGI HRR | Iris 1.8.8 | ✅(2-3, all presets) |
 | SEUS Renewed | Iris 1.8.8 | ✅(v1.0.1, E2, all presets) |
-| Continuum | Iris 1.8.8 | ✅(1.3, 2.0.5, ) |
+| Continuum | Iris 1.8.8 | ✅(1.3, 2.0.5, all presets) |
 | Kappa | Iris 1.8.8 | *️⃣(5.2, 所有预设天空盒黑色) |
 | KappaPT | Iris 1.8.8 | ❌(P15, 画面黑屏) |
 
